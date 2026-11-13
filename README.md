@@ -20,4 +20,4 @@ Abrir src/SITRAC.cpp en Dev-C++,
 compilar y ejecutar el programa.
 
 ## Autor
-Escribir aquí el nombre del estudiante.
+Valenthina Chaparro y Weslly Gomez.
